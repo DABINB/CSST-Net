@@ -25,6 +25,15 @@ conda install pytorch==2.2.1 torchvision==0.17.1 torchaudio==2.2.1 pytorch-cuda=
 pip install -r requirements.txt
 ```
 # Training and Evaluation
+## Create New folder
+```
+|-CSST_Net
+  |-data
+  |-Loss_Acc
+  |-predata
+  |-results
+```
+
 ## Prepare dataset
 You can download the datasets on [Google Drive](https://drive.google.com/drive/folders/1Km1Go4ilB_bI033SBJ7eJ0uCzbqEqbgt)。
 
